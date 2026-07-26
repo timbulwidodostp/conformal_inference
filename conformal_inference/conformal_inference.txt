@@ -2,8 +2,8 @@
 # WhatsApp : +6285227746673
 # IG : @olahdatasemarang_
 # Conformal Inference for Synthetic Control Estimators Use conformal_inference (coresynth) With (In) R Software
-install.packages("CausalSpline")
-library("CausalSpline")
+install.packages("coresynth")
+library("coresynth")
 # Estimation Conformal Inference for Synthetic Control Estimators Use conformal_inference (coresynth) With (In) R Software
 conformal_inference = read.csv("https://raw.githubusercontent.com/timbulwidodostp/conformal_inference/main/conformal_inference/conformal_inference.csv",sep = ";")
 scm_fit <- scm_fit(gdp ~ treated | unit + year, data = conformal_inference)
