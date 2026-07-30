@@ -1,6 +1,8 @@
 # conformal_inference
 Conformal Inference for Synthetic Control Estimators Use conformal_inference (coresynth) With (In) R Software
 
+https://www.youtube.com/watch?v=4USjSD04PAQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
